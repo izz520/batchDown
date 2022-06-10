@@ -1,0 +1,49 @@
+{
+	"name": "NotTrippykidz #1430",
+	"description": "NotTrippyKidz is an exclusive collection of 2222 NFTs tripping on the Ethereum Blockchain.",
+	"image": "https://bafybeiholf7lcgyan3o4wsw2rl5g33ayvkapchr2po72fi6zrjbdiz5uy4.ipfs.nftstorage.link/791.png?ext=png",
+	"edition": 1430,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "The Eye"
+		},
+		{
+			"trait_type": "Creature",
+			"value": "Small Bird"
+		},
+		{
+			"trait_type": "Base",
+			"value": "Skin Tone 2"
+		},
+		{
+			"trait_type": "Clothe",
+			"value": "Yellow Shirt"
+		},
+		{
+			"trait_type": "Markings",
+			"value": "Chin Scar"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "3"
+		},
+		{
+			"trait_type": "Hair",
+			"value": "Fade"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Gray"
+		},
+		{
+			"trait_type": "Earring",
+			"value": "Three Piercing"
+		},
+		{
+			"trait_type": "Head Wear",
+			"value": "Gold Crown"
+		}
+	],
+	"compiler": "HashLips Art Engine"
+}
